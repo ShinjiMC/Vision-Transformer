@@ -1,0 +1,3 @@
+[submodule "external/headers"]
+	path = external/headers
+	url = https://github.com/ShinjiMC/cpp-headers
